@@ -2,7 +2,7 @@
 Created a predictive ("Spam Email Detection") model using "Scikit-learn" and natural language processing techniques (Vectorization Technique) to classify or predict outcomme from a dataset.
 # 🔍 Source
 I have built a spam vs. ham classifier using Python, Scikit-learn, and a structured 'emails.csv' dataset containing labeled email messages.
-# ❓How to run the code?
+# ❓How to run the code ?
 ## 🔧 To run the code:-
 ### • Copy the code in your Jupyter Notebook.
 ### • Install the necessary libraries mentioned in the code.
